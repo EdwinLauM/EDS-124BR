@@ -30,4 +30,8 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 ### Variables: Drawing Shapes
 [Click this link to see the explanation for the Variables: Drawing Shapes program](https://youtu.be/z6TfJJxOIy0)
 
+---
+### Conditional Loops: Stop the Ball
+[Click this link to see the explanation for the Conditonal Loops: Stop the Ball program](https://youtu.be/z6TfJJxOIy0)
+
 
